@@ -1,2 +1,4 @@
-# Jelita_213510559_PrakLabPbk
+# UAS LAB PBK
+Nama  : Jelita
+Npm   : 213510559
  
